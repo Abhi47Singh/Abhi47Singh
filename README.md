@@ -40,16 +40,6 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,cpp,java,nextjs,mysql" /><br>
 </div>
-
 <br/>
-<hr/>  
-  <br/><br/><br/>
-</div>
-
 <hr/>
-
 <br/><br/>
-
-<hr/>
-
-<br/>
