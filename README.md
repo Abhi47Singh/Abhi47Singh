@@ -12,9 +12,7 @@
  
  🔭 I’m currently looking for a **entry level job**
  
- 🌱 I’m currently learning * React, Node.js ,TailwindCss, Next.js , Java**
-
-💬 Ask me anything ** [here](abhisingh123.asabhi@gmail.com)**
+ 🌱 I’m currently learning **React, Node.js ,TailwindCss, Next.js , Java**
 
 ⚡ Fun fact **Anime is not a Cartoon 😂**
 
@@ -37,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c++,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,cpp,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
